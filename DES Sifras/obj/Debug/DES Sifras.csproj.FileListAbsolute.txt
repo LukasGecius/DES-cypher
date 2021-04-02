@@ -1,0 +1,10 @@
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\bin\Debug\DES Sifras.exe.config
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\bin\Debug\DES Sifras.exe
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\bin\Debug\DES Sifras.pdb
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES Sifras.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES_Sifras.Form1.resources
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES_Sifras.Properties.Resources.resources
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES Sifras.csproj.GenerateResource.cache
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES Sifras.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES Sifras.exe
+C:\Users\Lukas\Desktop\Paskaitos\Informacijos saugumas\Uzduotis 2\DES sifravimas\DES Sifras\DES Sifras\obj\Debug\DES Sifras.pdb
